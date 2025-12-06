@@ -27,23 +27,23 @@ Epiverso es una iniciativa colaborativa global liderada por data.org, que preten
 
 ### [Encuestas](https://www.youtube.com/playlist?list=PL9-E3cL2KgKl_uhGJ36Fo5FqmrwL5Fkh1)	
 
-* De la encuesta al dato: un flujo reproducible con R para caracterizar estudiantes en educación superior	Francisco Javier Leon, Miguel Perez, Leonardo Pinto
+* [De la encuesta al dato: un flujo reproducible con R para caracterizar estudiantes en educación superior	Francisco Javier Leon, Miguel Perez, Leonardo Pinto](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/42.pdf)
 
-* dosr: Acelerando y Estandarizando el Análisis de Encuestas Complejas en el Sector Público	Gabriel Sotomayor López
+* [dosr: Acelerando y Estandarizando el Análisis de Encuestas Complejas en el Sector Público	Gabriel Sotomayor López](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/45.pdf)
 
-* metasurvey: pipelines reproducibles para el análisis de encuestas complejas en R	Mauro Loprete
+* [metasurvey: pipelines reproducibles para el análisis de encuestas complejas en R	Mauro Loprete](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/31.pdf)
 
 ### [Medio Ambiente](https://www.youtube.com/playlist?list=PL9-E3cL2KgKnHT6jP17fZozEN-KVTWp_m)
 
-* Validación automatizada de datos de biodiversidad	Jorge Homero Márquez-Taffo, Stephanie Orellana, Francisca Muñoz Narbona, Soledad Kremer
+* [Validación automatizada de datos de biodiversidad	Jorge Homero Márquez-Taffo, Stephanie Orellana, Francisca Muñoz Narbona, Soledad Kremer](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/52.pdf)
 
-* Integrando listas taxonómicas en Quarto y R Markdown: Un caso para `taxnames`	Miguel Alvarez
+* [Integrando listas taxonómicas en Quarto y R Markdown: Un caso para `taxnames`	Miguel Alvarez](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/38.pdf)
 
-* Plataforma Analisis de Frecuencias en Hidrologia	Alonso Arriagada Monreal
+* [Plataforma Analisis de Frecuencias en Hidrologia	Alonso Arriagada Monreal](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/9.pdf)
 
-* Modelado del éxito reproductivo del pingüino de Magallanes mediante R e imágenes satelitales: un enfoque multinomial desde el Parque Nacional Monte León, Argentina	Samanta Dodino, María Eugenia Lopez, Erica Schlaps, Lucía Rodríguez-Planes
+* [Modelado del éxito reproductivo del pingüino de Magallanes mediante R e imágenes satelitales: un enfoque multinomial desde el Parque Nacional Monte León, Argentina	Samanta Dodino, María Eugenia Lopez, Erica Schlaps, Lucía Rodríguez-Planes](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/12.pdf)
 
-* Estudio de ríos con herramientas en R: impactos del aprovechamiento forestal en Tierra del Fuego, Argentina	María Eugenia Lopez, Samanta Dodino, Érica Schlaps, Lucía Rodríguez-Planes
+* [Estudio de ríos con herramientas en R: impactos del aprovechamiento forestal en Tierra del Fuego, Argentina	María Eugenia Lopez, Samanta Dodino, Érica Schlaps, Lucía Rodríguez-Planes](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/13.pdf)
 
 ### [Universos y Multiversos](https://www.youtube.com/playlist?list=PL9-E3cL2KgKnoTmIYNYmeT6zRcJrArnW2)
 
