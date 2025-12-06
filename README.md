@@ -9,7 +9,7 @@ Acceso a todo el material de tutoriales, presentaciones y papers de la edición 
 
 ## Keynotes
 
-### Heather Turner: Lowering Barriers to Contributing to R
+### [Heather Turner: Lowering Barriers to Contributing to R](https://www.youtube.com/live/xbCT4v5LkD4?si=uya0b7mVwcYo0Acl&t=26415)
 
 It is 30 years since R was released under an open source license and today R is used by millions of people worldwide. Ensuring that R remains a solid foundation for people’s work requires ongoing development and maintenance. The general R community can play an important part in sustaining R for the future. In this keynote, I’ll share some recent initiatives that lower barriers to contribution. We’ll explore two tools that simplify the process of contributing:
 
