@@ -142,7 +142,7 @@ Epiverso es una iniciativa colaborativa global liderada por data.org, que preten
 
 * Inteligencia Artificial Generativa en forma local. LLMs en tu PC usando ollama y ollamar	German Rosatti
 
-* Forecasting with regression models	Rami Krispin
+* [Forecasting with regression models](https://ramikrispin.github.io/latin-R-forecasting-workshop/). Rami Krispin
 
 * Tableros con Quarto Dashboards y Crosswalk	Betsi Cohen
 
