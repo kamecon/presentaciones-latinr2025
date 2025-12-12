@@ -83,15 +83,15 @@ Epiverso es una iniciativa colaborativa global liderada por data.org, que preten
 
 * [Mejor código, sin esfuerzos, sin siquiera IA	Maëlle Salmon, Hugo Gruson, Etienne Bacher](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/3.pdf)
 
-8 [Automatizando la Ciencia Abierta con R: Generación de Plantillas Quarto para la Gestión de Software de Investigación	Patricia Loto](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/50.pdf)
+* [Automatizando la Ciencia Abierta con R: Generación de Plantillas Quarto para la Gestión de Software de Investigación	Patricia Loto](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/50.pdf)
 
 ### [Comunidades](https://www.youtube.com/playlist?list=PL9-E3cL2KgKnCyjBIsXbo6h_FbzARZX45)
 
-* Procesos de análisis y visualización de datos del III Simposio Nacional de Mujeres en Ciencia: Experiencia de OWSD Honduras	Antonella Rivera, Larissa Acosta Salgado, Dariana Avila Velasquez, Karen Orellana, Liliana Nuñez, Eleana Cano Sosa
+* [Procesos de análisis y visualización de datos del III Simposio Nacional de Mujeres en Ciencia: Experiencia de OWSD Honduras	Antonella Rivera, Larissa Acosta Salgado, Dariana Avila Velasquez, Karen Orellana, Liliana Nuñez, Eleana Cano Sosa](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/17.pdf)
 
-* Campeones de rOpenSci: Creación de comunidades de líderes del código abierto	Yanina Noemí Bellini Saibene, Noam Martin Ross
+* [Campeones de rOpenSci: Creación de comunidades de líderes del código abierto	Yanina Noemí Bellini Saibene, Noam Martin Ross](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/19.pdf)
 
-* Estrategias de divulgación para proyectos de software e infraestructuras abiertas	Alejandra Bellini, Yanina Noemí Bellini Saibene
+* [Estrategias de divulgación para proyectos de software e infraestructuras abiertas	Alejandra Bellini, Yanina Noemí Bellini Saibene](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/29.pdf)
 
 ### [Modelos](https://www.youtube.com/playlist?list=PL9-E3cL2KgKnYOaLdpSNeS-fHEoEBlHzT)
 
@@ -131,11 +131,11 @@ Epiverso es una iniciativa colaborativa global liderada por data.org, que preten
 
 ### [LLMs](https://www.youtube.com/playlist?list=PL9-E3cL2KgKmp38SPnJhU79elklcUTH0S)
 
-* Herramientas para usar modelos de lenguaje de gran escala (LLM) en R	Luis D. Verde Arregoitia
+* [Herramientas para usar modelos de lenguaje de gran escala (LLM) en R	Luis D. Verde Arregoitia](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/33.pdf)
 
-* Bringing Stable Diffusion to R: An R-First Implementation of Text-to-Image Generation	Troy Hernandez
+* [Bringing Stable Diffusion to R: An R-First Implementation of Text-to-Image Generation	Troy Hernandez](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/54-2.pdf)
 
-* MyOwnRobs: A Cursor-style AI Coding Agent for RStudio	Juan Cruz Rodriguez
+* [MyOwnRobs: A Cursor-style AI Coding Agent for RStudio	Juan Cruz Rodriguez](https://github.com/LatinR/presentaciones-latinr2025/blob/main/contribuciones/40.pdf)
 
 
 ## Tutoriales
